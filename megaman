@@ -1,0 +1,9 @@
+installdir	::/Apps/MegaMan
+iso.c	files/MegaMan.ISO.C.a6d178
+name	megaman
+osmin	504
+pkgmin	10
+release	7
+size	1093632
+version	0.07-alpha
+website	https://github.com/tramplersheikhs/megaman

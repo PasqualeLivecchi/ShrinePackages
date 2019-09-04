@@ -1,0 +1,9 @@
+installdir	::/Apps
+iso.c	files/TempleTetris.ISO.C.077e9d
+name	templetetris
+osmin	503
+pkgmin	10
+release	1
+size	63488
+version	git
+website	https://github.com/p0lszewski/TempleTetris

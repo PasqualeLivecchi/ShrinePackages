@@ -1,0 +1,9 @@
+installdir	::/Apps
+iso.c	files/Julia.ISO.C.3e77ed
+name	julia
+osmin	503
+pkgmin	10
+release	1
+size	49152
+version	1
+website	https://github.com/pcorey/julia-templeos

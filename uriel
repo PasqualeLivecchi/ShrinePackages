@@ -1,0 +1,8 @@
+website	https://github.com/tramplersheikhs/uriel
+pkgmin	10
+iso.c	files/Uriel.ISO.C.63b39b
+osmin	503
+version	0.002
+release	2
+installdir	::/Apps
+size	49152

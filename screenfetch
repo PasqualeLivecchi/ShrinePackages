@@ -1,0 +1,9 @@
+installdir	::/Apps/Screenfetch
+iso.c	files/Screenfetch.ISO.C.70c909
+osmin	503
+osmax	504
+pkgmin	10
+release	2
+size	69632
+version	2
+website	https://github.com/minexew/TempleOS-Screenfetch

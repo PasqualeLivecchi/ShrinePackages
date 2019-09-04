@@ -1,0 +1,9 @@
+pkgmin	10
+installdir	::/Apps
+size	49152
+version	1.0
+release	1
+osmin	502
+osmax	9999
+iso.c	files/SimpleCalc.ISO.C
+website	https://github.com/shawnanastasio/SimpleCalc

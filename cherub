@@ -1,0 +1,9 @@
+installdir	::/Apps/Cherub
+iso.c	files/Cherub.ISO.C.0924a0
+name	cherub
+osmin	503
+pkgmin	10
+release	4
+size	1093632
+version	0.4
+website	https://github.com/tramplersheikhs/cherub

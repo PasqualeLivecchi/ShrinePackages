@@ -1,0 +1,9 @@
+installdir	::/Apps/TicTacToe
+iso.c	files/TicTacToe.ISO.C.abacb9
+name	tictactoe
+osmin	503
+pkgmin	10
+release	2
+size	51200
+version	1.3
+website	https://github.com/Rion96/TicTacToe

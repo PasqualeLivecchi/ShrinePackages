@@ -1,0 +1,9 @@
+website	http://www.templeos.org/
+pkgmin	10
+iso.c	files/TempleOSSup1.ISO.C
+osmin	502
+osmax	9999
+version	5.02
+release	502
+installdir	::/Sup1
+size	7972864

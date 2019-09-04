@@ -1,0 +1,9 @@
+website	https://github.com/shawnanastasio/TempleShell
+pkgmin	10
+iso.c	files/TempleShell.ISO.C
+osmin	502
+osmax	503
+version	1.0
+release	1
+installdir	::/Apps
+size	49152
